@@ -54,12 +54,10 @@ Sergeant
 
 `AUG 2015 - DEC 2018`
 __University of Maryland, College Park__
-B.S. Computer Science
-GPA: 3.7
+- B.S. Computer Science
 
 `AUG 2014 - AUG 2015`
 __Northern Virginia Community College, Annandale__
-GPA: 3.8
 
 
 ### Selected Courses
