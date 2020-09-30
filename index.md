@@ -3,7 +3,7 @@ layout: cv
 title: Isaac Lockwood's CV
 ---
 # Isaac Lockwood
-former marine, software developer
+software developer, former marine
 
 <div id="webaddress">
 <a href="mailto:resume@isaaclockwood.com">resume@isaaclockwood.com</a>
@@ -42,10 +42,12 @@ Teaching Assistant
 `JUN 2017 - AUG 2017`
 __Northrop Grumman__
 College Technical Intern
+- Documented and diagramed changes to a 100k line codebase, reflecting new polymorphic design
 
 `JAN 2010 - SEP 2014`
-__United States Marine Corps__
-SIGINT Analyst and Reporter, sergeant
+__United States Marine Corps__ 
+Sergeant
+- SIGINT Analyst and Reporter
 
 
 ## Education
@@ -62,11 +64,12 @@ GPA: 3.8
 
 ### Selected Courses
 
-[Operating Systems](https://www.cs.umd.edu/class/fall2018/cmsc412/)
-[Data Structures](http://www.cs.umd.edu/class/fall2017/cmsc420/)
-[Computer and Network Security](https://www.cs.umd.edu/class/spring2018/cmsc414-0101/)
-[Programming Languages](http://www.cs.umd.edu/class/spring2017/cmsc330/)
-[Database Design](http://www.cs.umd.edu/class/fall2017/cmsc424-0101/)
+[Operating Systems (C)](https://www.cs.umd.edu/class/fall2018/cmsc412/),
+[Computer and Network Security (C)](https://www.cs.umd.edu/class/spring2018/cmsc414-0101/),
+[Data Structures (Java)](http://www.cs.umd.edu/class/fall2017/cmsc420/),
+[Database Design (SQL, Python)](http://www.cs.umd.edu/class/fall2017/cmsc424-0101/),
+[Programming Languages (OCaml, Ruby)](http://www.cs.umd.edu/class/spring2017/cmsc330/)
+
 
 
 
