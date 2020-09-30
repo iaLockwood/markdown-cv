@@ -1,0 +1,94 @@
+I"a<h1 id="isaac-lockwood">Isaac Lockwood</h1>
+<p>software developer, former marine</p>
+
+<div id="webaddress">
+<a href="mailto:resume@isaaclockwood.com">resume@isaaclockwood.com</a>
+
+</div>
+
+<h2 id="currently">Currently</h2>
+
+<p>Software Engineer at Nteligen</p>
+
+<h3 id="experienced-in">Experienced in</h3>
+
+<p>Systems engineering, event-driven architecture</p>
+
+<h3 id="interested-in">Interested in</h3>
+
+<p>Rust, Open Source</p>
+
+<h2 id="work">Work</h2>
+
+<p><code class="language-plaintext highlighter-rouge">JUN 2018 - present</code>
+<strong>Nteligen</strong></p>
+<ul>
+  <li><em>Software Engineer</em></li>
+  <li><em>Software Engineering Intern</em>
+thing three</li>
+</ul>
+
+<p><code class="language-plaintext highlighter-rouge">JAN 2018 - MAY 2018</code>
+<strong>STICs @ UMD</strong></p>
+<ul>
+  <li><em>Teaching Assistant</em></li>
+</ul>
+
+<p><code class="language-plaintext highlighter-rouge">JUN 2017 - AUG 2017</code>
+<strong>Northrop Grumman</strong></p>
+<ul>
+  <li><em>College Technical Intern</em></li>
+  <li>Documented and diagramed changes to a 100k line codebase, reflecting new polymorphic design</li>
+</ul>
+
+<p><code class="language-plaintext highlighter-rouge">JAN 2010 - SEP 2014</code>
+<strong>United States Marine Corps</strong></p>
+<ul>
+  <li><em>Sergeant, SIGINT Analyst and Reporter</em></li>
+</ul>
+
+<h2 id="education">Education</h2>
+
+<p><code class="language-plaintext highlighter-rouge">AUG 2015 - DEC 2018</code>
+<strong>University of Maryland, College Park</strong></p>
+<ul>
+  <li>B.S. Computer Science</li>
+</ul>
+
+<p><code class="language-plaintext highlighter-rouge">AUG 2014 - AUG 2015</code>
+<strong>Northern Virginia Community College, Annandale</strong></p>
+
+<h3 id="selected-syllabi">Selected Syllabi</h3>
+
+<p><a href="https://www.cs.umd.edu/class/fall2018/cmsc412/">Operating Systems (C)</a>,
+<a href="https://www.cs.umd.edu/class/spring2018/cmsc414-0101/">Computer and Network Security (C)</a>,
+<a href="http://www.cs.umd.edu/class/fall2017/cmsc420/">Data Structures (Java)</a>,
+<a href="http://www.cs.umd.edu/class/fall2017/cmsc424-0101/">Database Design (SQL, Python)</a>,
+<a href="http://www.cs.umd.edu/class/spring2017/cmsc330/">Programming Languages (OCaml, Ruby)</a></p>
+
+<h3 id="projects">Projects</h3>
+<p>GeekOS: Augment a Unix-style operating system kernel skeleton for a PC-like x86 platform
+by implementing pipe, fork, signals, virtual memory, and file system in C</p>
+
+<p>MeeshQuest: Wrote a mapping program that supports displaying a highlighted route; calculating shortest routes (based on time or distance); generating driving instructions</p>
+
+<p>Database Project: Analyze requirements for, Design, implemented, documented, and demonstrated a database system that supports a Multi-Media Data Aggregator</p>
+
+<p>Codelab03: Showed students how latency may be reduced when serving data from storage (S3) by using a content delivery network (CloudFront); Download time of a 7MB JPEG, hosted in the Asia Pacific region (Sydney) was lowered from 6.8 to 1.7 seconds</p>
+
+<p>Codelab04: Showed students how Wordpress could be deployed on and EC2 instance with a basic LAMP(Linux, Apache, MySQL, PHP) server; Additionally, created an AMI to speed future deployment</p>
+
+<p>Codelab06: Showed students how their website service might be made to degrade gracefully with scale through the use of a load balancer (ALB); Stress testing was conducted using BEES to ensure 4 instances shooting 10k requests, 250 at a time, had a mean response under 3 seconds</p>
+
+<p>CSC389L Cloud Computing codelabs, Spring 2018
+https://github.com/UMD-CS-STICs/389Lspring18
+https://umd-cs-stics.gitbooks.io/cmsc389l-practical-cloud-computing-spring-2018/content/</p>
+
+<p>Lightcurve of asteroid 3394 Banno, Spring 2018
+<a href="https://ui.adsabs.harvard.edu/abs/2018MPBu...45..323H/abstract">The Rotation Period of 3394 Banno and the Raw Lightcurve of (48697) 1996 HX14 </a></p>
+
+<!-- ### Footer
+
+Last updated: SEP 2020 -->
+
+:ET

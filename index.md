@@ -98,7 +98,11 @@ MeeshQuest: Wrote a mapping program that supports displaying a highlighted route
 
 Database Project: Analyze requirements for, Design, implemented, documented, and demonstrated a database system that supports a Multi-Media Data Aggregator
 
+[Codelab03](https://umd-cs-stics.gitbooks.io/cmsc389l-practical-cloud-computing-spring-2018/content/codelabs/codelab-03/): Demonstrates how latency may be reduced when serving data from storage (S3) by using a content delivery network (CloudFront); Download time of a 7MB JPEG, hosted in the Asia Pacific region (Sydney) was lowered from 6.8 to 1.7 seconds
 
+[Codelab04](https://umd-cs-stics.gitbooks.io/cmsc389l-practical-cloud-computing-spring-2018/content/codelabs/codelab-04/): Teaches students how a Wordpress site can be deployed using an EC2 instance with a basic LAMP(Linux, Apache, MySQL, PHP) server; Additionally, created an AMI to speed future deployment
+
+[Codelab06](https://umd-cs-stics.gitbooks.io/cmsc389l-practical-cloud-computing-spring-2018/content/codelabs/codelab-06/): Shows how a website service might be made to degrade gracefully with scale through the use of a load balancer (ALB); Stress testing was conducted using [beeswithmachineguns](https://github.com/newsapps/beeswithmachineguns) to ensure 4 instances shooting 10k requests, 250 at a time, had a mean response under 3 seconds
 
 <!-- ### Footer
 
