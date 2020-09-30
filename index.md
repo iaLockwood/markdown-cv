@@ -1,91 +1,77 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Isaac Lockwood's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Isaac Lockwood
+former marine, software developer
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:resume@isaaclockwood.com">resume@isaaclockwood.com</a>
+
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Software Engineer at Nteligen
 
-### Specialized in
+### Experienced in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Systems engineering, event-driven architecture
 
 
-### Research interests
+### Interested in
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Rust, Open Source
+
+
+## Work
+
+`JAN 2019 - present`
+__Nteligen__
+Software Engineer
+
+`JUN 2018 - AUG 2018`
+__Nteligen__
+Software Engineering Intern
+
+`JAN 2018 - MAY 2018`
+__STICs @ UMD__
+Teaching Assistant
+
+`JUN 2017 - AUG 2017`
+__Northrop Grumman__
+College Technical Intern
+
+`JAN 2010 - SEP 2014`
+__United States Marine Corps__
+SIGINT Analyst and Reporter, sergeant
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`AUG 2015 - DEC 2018`
+__University of Maryland, College Park__
+B.S. Computer Science
+GPA: 3.7
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`AUG 2014 - AUG 2015`
+__Northern Virginia Community College, Annandale__
+GPA: 3.8
 
 
+### Selected Courses
 
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+[Operating Systems](https://www.cs.umd.edu/class/fall2018/cmsc412/)
+[Data Structures](http://www.cs.umd.edu/class/fall2017/cmsc420/)
+[Computer and Network Security](https://www.cs.umd.edu/class/spring2018/cmsc414-0101/)
+[Programming Languages](http://www.cs.umd.edu/class/spring2017/cmsc330/)
+[Database Design](http://www.cs.umd.edu/class/fall2017/cmsc424-0101/)
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: SEP 2020 -->
 
 
